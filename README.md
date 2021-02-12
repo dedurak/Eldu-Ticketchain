@@ -1,13 +1,10 @@
 # Eldu-Ticketchain
-
 Still buidling the project.
 
-## Information
-Soon you will find the project for a ticketing platform running on a blockchain 
-where smart contracts are running all backend functions and automatize in a highly degree almost all important business processes, 
-like booking tickets, payment, a place to sell ticket for the same price for unexpected cases and more.
 
-Coming soon...
+## The Project
+The goal of the project is to create a new business environment for airlines ticket distribution. Current business processes are too much centralized and not fully automatized. In case of flight cancellations or unexpected delays, customers have the right to get back their payments or a compensation payment from airlines. And this is what makes customers angry, they need to apply for a refunding or compensation payment and are used to wait furthermore until the airlines administrators confirm the application. 
+Here we'll take advantage of the BSC and use smart contracts, where each of them distinguish in its responsibilities, to create a new exemplary business environment.
 
 
 ## Using...
